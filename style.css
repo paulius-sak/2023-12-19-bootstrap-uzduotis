@@ -9,3 +9,6 @@
 a.menu-rounded {
     padding: 22px 15px;
 }
+.accordion-button:focus {
+    z-index: 2;
+}
